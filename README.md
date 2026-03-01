@@ -299,7 +299,5 @@ By the end of this 30-day series, you will be able to:
 
 ---
 
-This README is **ready to upload to GitHub** as your course repository.  
 
----
 
